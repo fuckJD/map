@@ -107,7 +107,7 @@
 
   // Heatmap data: 500 Points
   function getPoints() {
-    $.getJSON('./data.json').then(function (data) {
+    $.getJSON('./data.json',function (data) {
       let points=[];
       for(var i = 0;i < data.Points.length;i++){
         points.push(new google.maps.LatLng(data.Points[i].lat, data.Points[i].lng))
