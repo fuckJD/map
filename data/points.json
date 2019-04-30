@@ -3,6 +3,8 @@
     {
       "autor": "",
       "describe": "fuckJD",
+      "time": "2018-08-30",
+      "link": "",
       "location": {
         "lat": 39.8401204,
         "lng": 116.5900514
@@ -15,6 +17,15 @@
       "location": {
         "lat": 30.750045,
         "lng": 117.663292
+      }
+    },{
+      "autor": "",
+      "describe": "著名主持人朱军被指性骚扰后反诉爆料者 ",
+      "time": "2014-00-00",
+      "link": "https://www.bbc.com/zhongwen/simp/chinese-news-45677296",
+      "location": {
+        "lat": 39.9152601,
+        "lng": 116.4618717
       }
     }
   ]
