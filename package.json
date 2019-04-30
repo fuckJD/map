@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "http://fuckjd.github.io/map",
   "dependencies": {
+    "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
     "mockjs": "^1.0.1-beta3",
     "react": "^16.8.6",
